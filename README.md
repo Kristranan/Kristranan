@@ -7,6 +7,11 @@ I specialize in coding and programing. My work blends analytical thinking to del
 Whether collaborating with teams or taking the lead on projects, I thrive in dynamic environments that challenge me to grow and innovate.
 When I'm not coding, I enjoy drawing and listening to music, which helps keep my creativity flowing.
 
+<h2>My skills:</h2>
+- C langauge
+- Python
+- Javascript -
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
